@@ -1,0 +1,28 @@
+
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Kelowna, BC - Hourly Weather Forecast</title>
+    <link>https://weather.gc.ca/forecast/hourly/bc-48_metric_e.html</link>
+    <description>Hourly weather updates for Kelowna, British Columbia from Environment Canada</description>
+    <language>en-ca</language>
+    <lastBuildDate>2025-10-31T14:00:00-07:00</lastBuildDate>
+
+    <item>
+      <title>2 PM: 9°C - Cloudy with sunny breaks</title>
+      <description>Temperature: 9°C, Wind: SW 18 km/h, Humidity: 61%</description>
+      <pubDate>Fri, 31 Oct 2025 14:00:00 -0700</pubDate>
+      <link>https://weather.gc.ca/forecast/hourly/bc-48_metric_e.html</link>
+    </item>
+
+    <item>
+      <title>3 PM: 9°C - Cloudy with sunny breaks</title>
+      <description>Temperature: 9°C, Wind: SW 16 km/h, Humidity: 61%</description>
+      <pubDate>Fri, 31 Oct 2025 15:00:00 -0700</pubDate>
+      <link>https://weather.gc.ca/forecast/hourly/bc-48_metric_e.html</link>
+    </item>
+
+    <!-- Add more hourly items here -->
+  </channel>
+</rss>
+``
